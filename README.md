@@ -4,7 +4,7 @@
 </head>
 <body>
 	<header>
-		<h1>Tube Harassment project</h1>
+		<h1>Tube Harassment Project</h1>
 		<ul>
 			<li><a href="#">About</a></li>
 			<li><a href="#">Resources</a></li>
